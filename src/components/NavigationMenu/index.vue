@@ -3,7 +3,7 @@ export default {
   name: 'navigation-menu',
   setup() {
     const menuItems = [
-      { name: 'Главная страница', path: '/' },
+      { name: 'Главная страница', path: '/mat_vvoda' },
       { name: 'Расчеты', path: '/calculations' },
     ];
     return {

@@ -9,7 +9,7 @@ import CalculationCard from './../components/CalculationCard/index.vue';
 const router = new createRouter({
   history: createWebHistory(),
   routes: [
-    { path: '/', name: 'Home', component: Form },
+    { path: '/mat_vvoda', name: 'Home', component: Form },
     {
       path: '/calculations',
       name: 'calculations',
